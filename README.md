@@ -4,8 +4,13 @@ The study I conducted to learn how a professional application is developed was b
 ![Ekran Resmi 2024-02-03 18 45 17](https://github.com/ayylmazslmn/Twitter_Replica-_Clone_SwiftUi/assets/101000802/88c2491c-c230-47cd-80f8-5d7966292564)
 ![Ekran Resmi 2024-02-03 18 45 27](https://github.com/ayylmazslmn/Twitter_Replica-_Clone_SwiftUi/assets/101000802/ae2ca630-4f5e-4aa5-b27c-87e755c15a40)
 ![Ekran Resmi 2024-02-03 18 46 02](https://github.com/ayylmazslmn/Twitter_Replica-_Clone_SwiftUi/assets/101000802/2b1045ce-29fa-4654-a37d-57391720a974)
-![Ekran Resmi 2024-02-03 18 46 28](https://github.com/ayylmazslmn/Twitter_Replica-_Clone_SwiftUi/assets/101![Ekran Resmi 2024-02-03 18 46 52](https://github.com/ayylmazslmn/Twitter_Replica-_Clone_SwiftUi/assets/101000802/bb5af56c-16b9-4571-9bd9-aa167772baeb)
-000802/c6d9bc3f-b710-4986-bdf1-4073aaeff77d)
+
+![Ekran Resmi 2024-02-03 18 46 28](https://github.com/ayylmazslmn/Twitter_Replica-_Clone_SwiftUi/assets/101000802/07f71326-0f33-4673-bfe0-1b94654584bd)
+
+![Ekran Resmi 2024-02-03 18 46 52](https://github.com/ayylmazslmn/Twitter_Replica-_Clone_SwiftUi/assets/101000802/5aa91038-8a50-4814-aaa4-b1d931b6a942)
+
+
+
 
 ![Ekran Resmi 2024-02-03 18 47 11](https://github.com/ayylmazslmn/Twitter_Replica-_Clone_SwiftUi/assets/101000802/2ec2f365-21d2-494f-866a-5615d0fdd5b4)
 
